@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/bmabey/database_cleaner.git
-  revision: f052d64d3be9351a98a99e932a59be528ccc561c
+  revision: de085dd5c64c59d60b0ca7bc63bbb2d1e0072dbb
   specs:
     database_cleaner (1.5.3)
 
@@ -45,8 +45,8 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
     addressable (2.4.0)
-    arel (7.1.1)
-    autoprefixer-rails (6.4.1)
+    arel (7.1.2)
+    autoprefixer-rails (6.4.1.1)
       execjs
     bcrypt (3.1.11)
     bootstrap-sass (3.3.7)
